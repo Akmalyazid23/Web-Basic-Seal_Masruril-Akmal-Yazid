@@ -1,0 +1,69 @@
+body{
+    background-color: #DFD3C3;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.logo
+{
+    color: #F8EDE3;
+    background-color: #7D6E83;
+    padding-left: 10px;
+    margin: auto;
+    size: 200px;
+    font-family: 'serif';
+    background-size: 80px;
+}
+.gambar{
+   display: flex;
+   margin: 10px;
+   float: left;
+   margin-top: 20px;
+   margin-bottom: 10px;
+   margin-left: 5px;
+   margin-right: 40px;   
+}
+.deskripsi{
+    color: #7D6E83;
+    margin-top: 200px;
+    margin-bottom: 10px;
+    font-size: 40;
+    
+   
+}
+.deskripsi2{
+    color: #7D6E83;
+    font-size: 40;
+    margin-top: 6cm;
+  
+}
+.deskripsi3{
+    color: #7D6E83;
+    font-size: 40;
+    margin-top: 20px;
+    margin-left: auto;
+  
+}
+.deskripsi4{
+    color: #7D6E83;
+    font-size: 40;
+    margin-top: 20px;
+    margin-left: auto;
+  
+}
+
+.list{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #7D6E83;
+    font-size: 20px;
+    display: list-item;
+    margin-left: auto;
+}
+
+.button{
+    size: 40px;
+    display: inline;
+    color: #7D6E83;
+}
