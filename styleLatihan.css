@@ -29,6 +29,7 @@ body{
     margin-top: 200px;
     margin-bottom: 10px;
     font-size: 40;
+    font-family: 'Times New Roman';
     
    
 }
@@ -36,6 +37,7 @@ body{
     color: #7D6E83;
     font-size: 40;
     margin-top: 6cm;
+    font-family: 'Times New Roman';
   
 }
 .deskripsi3{
@@ -43,6 +45,7 @@ body{
     font-size: 40;
     margin-top: 20px;
     margin-left: auto;
+    font-family: 'Times New Roman';
   
 }
 .deskripsi4{
@@ -50,6 +53,7 @@ body{
     font-size: 40;
     margin-top: 20px;
     margin-left: auto;
+    font-family: 'Times New Roman';
   
 }
 
@@ -60,10 +64,72 @@ body{
     font-size: 20px;
     display: list-item;
     margin-left: auto;
+    font-family: 'Times New Roman';
 }
 
-.button{
-    size: 40px;
-    display: inline;
-    color: #7D6E83;
+.button1{
+    background-color: #7D6E83;
+    border: none;
+    color: #F8EDE3;
+    padding: 15px 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    text-decoration: none;
+
+    
 }
+.button2{
+    background-color: #7D6E83;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    text-decoration: none;
+/* html_element css */}
+
+.gambar2{
+    padding: 5px;
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 40px;   
+ }
+ .deskripsihtml{
+    color: #7D6E83;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 40;
+    font-family: 'Times New Roman';}
+
+    .logo1
+    {
+        color: #F8EDE3;
+        background-color: #7D6E83;
+        padding: 10px;
+        text-align: center;
+        margin: auto;
+        size: 200px;
+        font-family: 'serif';
+        background-size: 80px;
+    }
+    table{ 
+        color: #F8EDE3;
+        background-color: #7D6E83;
+        padding: 5px;
+        margin-top: 10px;
+        border-width: 2px;
+        border-color: #F8EDE3;
+        text-decoration-color: #F8EDE3;
+        text-align: center;
+
+    }
