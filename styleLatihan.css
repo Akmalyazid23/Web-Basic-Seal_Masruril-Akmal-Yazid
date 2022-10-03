@@ -117,10 +117,10 @@ body{
         background-color: #7D6E83;
         padding: 10px;
         text-align: center;
-        margin: auto;
-        size: 200px;
+        margin: 5px;
         font-family: 'serif';
         background-size: 80px;
+        display: inline-block
     }
     table{ 
         color: #F8EDE3;
@@ -133,3 +133,52 @@ body{
         text-align: center;
 
     }
+
+    {/* latihan bersama */.}
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: inline-block;
+        padding: 8px;
+        background-color: #7D6E83;
+        text-decoration: none;
+        font-family: 'Segoe UI';
+        text-decoration-color: #F8EDE3;
+        color: #F8EDE3;
+      }
+
+      <style>
+        .nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        .nav li {
+            float: left;
+        }
+
+        .nav li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .nav li a:hover {
+            background-color: #111;
+        }
+    </style>
