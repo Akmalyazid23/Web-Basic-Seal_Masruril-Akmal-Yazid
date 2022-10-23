@@ -1,0 +1,13 @@
+.image-hero{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;}
+
+.Title{ font-family: 'Raleway', sans-serif;}
+.Subtitle{ letter-spacing: 10px;}
+
+#Hero{height: 95vh;}
+
+.text-about{
+    text-indent: 50px;
+}
